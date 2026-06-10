@@ -1,4 +1,4 @@
-# 🏥 Arogya Vision - Smart Medical Waste Management System
+# Smart Medical Waste Management System
 
 **AI-Powered Automated Medical Waste Segregation**
 
